@@ -173,3 +173,4 @@ user_data_fields = [
 # 	"export_control.auth.validate"
 # ]
 
+app_include_js = "/assets/js/export_control.min.js"
